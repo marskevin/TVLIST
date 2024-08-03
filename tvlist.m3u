@@ -1391,6 +1391,10 @@ http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-plus
 http://cdn9.1678520.xyz/xsj2.1.php?id=j2
 #EXTINF:-1 group-title="港澳",TVB PLUS
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="港澳",TVB PLUS
+https://live.yzd.jialiangos.com:4443/live/fhw/5
+#EXTINF:-1 group-title="港澳",TVB PLUS
+http://61.238.177.254:30261/stream/channelid/112716350
 #EXTINF:-1 group-title="港澳",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="港澳",RTHK32
